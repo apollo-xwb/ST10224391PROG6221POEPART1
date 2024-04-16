@@ -7,7 +7,7 @@ scale their recipes, reset the quantities of ingredients or just clear the recip
 - Making the program run
 
 1. Clone the repository or download it to your PC.
-2. Open the RecipeApp.sln file (solution file) within Visual Studio.
+2. Open the ST10224391 PROG6221 POE Part 1.sln file (solution file) within Visual Studio.
 3. Have the solution be built in visual studio. This will make sure that dependencies are resolved.
 4. RTo run the application, press `Ctrl + F5` or click the Start button.
 
